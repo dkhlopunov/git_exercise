@@ -1,2 +1,5 @@
 hello
+<<<<<<< HEAD
 forgotten_lineo
+=======
+>>>>>>> 6d6b1ddfdc889bc38ff91c89dc6fed3c1ad0efc0
